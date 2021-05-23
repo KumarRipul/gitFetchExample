@@ -9,7 +9,7 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * @author akhand
+ * @author Ripul
  */
 
 @SpringBootApplication(scanBasePackages = {"za.co.mq.commons.config", "za.co.mq.aws","za.co.mq.audit"})
